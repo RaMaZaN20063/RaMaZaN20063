@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ramazan 👋
+Flutter Developer | Mobile App Coder | Eternal Learner
 
-<!--
-**RaMaZaN20063/RaMaZaN20063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Dimash Balabek, an 17-year-old Flutter developer passionate about crafting intuitive and high-performance mobile applications. Currently, I'm studying in JIHC college.
 
-Here are some ideas to get you started:
+🔭 What I'm Focusing On
+I’m diving deep into Flutter and Dart, honing my skills in state management, animations, and custom widgets. I’m also exploring other mobile technologies to broaden my horizons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+LinkedIn: Ramazan Abish (http://www.linkedin.com/in/romka-abish)
+Email: abishramazan116@gmail.com
+Fun Fact :3
+I love Anime videos and girls!
+
+😄 Let's always be in touch!
+Feel free to ask or get contact with me if you want to chat about it, collaborate on a project, or just say hello!
